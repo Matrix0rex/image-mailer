@@ -1,0 +1,1 @@
+Image Mailer is a web-based application that allows users to request a specific number of images based on a keyword and receive them in a ZIP file via email. The application uses Goggle API to fetches images, compresses them, and emails them to the user.
